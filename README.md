@@ -1,5 +1,4 @@
-
-<h1 align="center">Pihu Bhalla</h1>
+ <h1 align="center">Hi 👋, I'm Pihu Bhalla</h1>
 
 <h3 align="center">Data Science Student | AI Engineering Enthusiast | Automation</h3>
 
@@ -9,18 +8,26 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- Pursuing BS in Data Science at IIT Madras
-- Learning Python, SQL and data analysis
-- Exploring AI engineering, machine learning and Generative AI
-- Interested in AI agents and intelligent workflow automation
-- Focused on building practical skills through continuous learning
+-  Pursuing BS in Data Science at IIT Madras
+-  Learning Python and SQL
+-  Exploring data analytics and data visualization
+-  Interested in AI engineering, machine learning, and Generative AI
+-  Exploring AI agents and intelligent workflow automation
 
-### 🛠️ Tech Stack & Tools
+## 🌱 Currently Exploring
+
+- Python programming and problem-solving
+- Data analysis using Python libraries
+- Machine learning fundamentals
+- Generative AI and AI agent workflows
+- Workflow automation using n8n
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,jupyter" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter" alt="Development tools" />
 </p>
 
 <p align="center">
@@ -30,10 +37,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=flat" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Exploring-0A7EA4?style=flat" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Generative_AI-Exploring-8A2BE2?style=flat" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/AI_Agents-Exploring-0A7EA4?style=flat" alt="AI Agents" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/LangChain-Exploring-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
 ---
